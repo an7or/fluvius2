@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844945662606",
+    "firebase_url": "https://fluvius2-7f7a0-default-rtdb.firebaseio.com",
+    "project_id": "fluvius2-7f7a0",
+    "storage_bucket": "fluvius2-7f7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844945662606:android:680cd88ef22072c7bc1fdf",
+        "android_client_info": {
+          "package_name": "com.kitsware.fluvius2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844945662606-akoqpv7q8bh39b5v86dhi22bnmgu75pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVzciThA8y_S7WcRfAbGnoIz4fv3VZN_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844945662606-akoqpv7q8bh39b5v86dhi22bnmgu75pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
